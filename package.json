@@ -1,0 +1,25 @@
+{
+  "name": "finance-viz",
+  "version": "1.0.0",
+  "description": "a visualizer for financial products",
+  "main": "index.ts",
+  "dependencies": {
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmanual/finance-viz.git"
+  },
+  "author": "Juan Melendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmanual/finance-viz/issues"
+  },
+  "homepage": "https://github.com/juanmanual/finance-viz#readme"
+}
